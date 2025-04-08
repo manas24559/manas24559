@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi there, I'm Muhammad Anas 👋
+I'm a Software Engineer with expertise in
+TypeScript
+JavaScript
+React
+Node
+and the broader JS ecosystem
+My current passion and interests revolve around OCaml, ReasonML, Gleam, and the wider realm of functional programming.
 <!--
 **manas24559/manas24559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
